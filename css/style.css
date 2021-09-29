@@ -2,3 +2,7 @@
     width: 100%;
     border-radius: 10px;
 }
+.form_freelancer .form-control {
+    border:none;
+    border-bottom: 1px solid lightgray;
+}
